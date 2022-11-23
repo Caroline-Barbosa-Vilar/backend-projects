@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\bin\Debug\net7.0\first-exercise.exe
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\bin\Debug\net7.0\first-exercise.deps.json
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\bin\Debug\net7.0\first-exercise.runtimeconfig.json
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\bin\Debug\net7.0\first-exercise.dll
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\bin\Debug\net7.0\first-exercise.pdb
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.dll
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\refint\first-exercise.dll
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.pdb
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\first-exercise.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\first-exercise\obj\Debug\net7.0\ref\first-exercise.dll
