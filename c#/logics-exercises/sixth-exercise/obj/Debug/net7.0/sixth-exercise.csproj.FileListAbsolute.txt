@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\bin\Debug\net7.0\sixth-exercise.exe
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\bin\Debug\net7.0\sixth-exercise.deps.json
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\bin\Debug\net7.0\sixth-exercise.runtimeconfig.json
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\bin\Debug\net7.0\sixth-exercise.dll
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\bin\Debug\net7.0\sixth-exercise.pdb
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.dll
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\refint\sixth-exercise.dll
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.pdb
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\sixth-exercise.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documents\projects\backend-projects\c#\logics-exercises\sixth-exercise\obj\Debug\net7.0\ref\sixth-exercise.dll
